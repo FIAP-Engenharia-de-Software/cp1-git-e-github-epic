@@ -71,3 +71,19 @@ footer #socialmedia {
     display: flex;
     flex-direction: column;
 }
+#contato {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+#contato h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+#contato p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #555;
+}
