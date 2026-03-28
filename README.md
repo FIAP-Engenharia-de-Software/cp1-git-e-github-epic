@@ -16,14 +16,9 @@ O *Social Connect* nasceu da necessidade de criar sistemas mais abertos e conect
 ## Tecnologias utlizadas:
 
 * *Visual Studio Code:* 
-
 * *Git & GitHub:* 
-
 * *HTML* 
-
 * *CSS* 
-
-
 
 
 ## Integrantes:
@@ -32,3 +27,8 @@ O *Social Connect* nasceu da necessidade de criar sistemas mais abertos e conect
  Henrique da Silva RM569137
  Gabriel Juarez RM
  Lucas Trevisan Rm569731
+
+
+
+## Link do Github pages:
+ https://fiap-engenharia-de-software.github.io/cp1-git-e-github-epic/
