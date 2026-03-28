@@ -25,7 +25,7 @@ O *Social Connect* nasceu da necessidade de criar sistemas mais abertos e conect
  Nicolas Moreira Silva RM571210
  Andrey Luigi RM569575
  Henrique da Silva RM569137
- Gabriel Juarez RM
+ Gabriel Juarez RM563680
  Lucas Trevisan Rm569731
 
 
